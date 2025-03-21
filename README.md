@@ -34,10 +34,14 @@ This is a simple notes application built with React and Tailwind CSS. It allows 
 * **Cloud Sync:** Integrate with a backend service to sync notes across devices.
 * **Rich Text Editor:** Implement a more advanced editor with formatting options.
 * **Improved UI/UX:** Further refine the user interface and user experience.
+
+**Initial screen for user**
 ![screencapture-notes-app-seven-flame-12-vercel-app-2025-03-21-15_28_00](https://github.com/user-attachments/assets/2825245f-3388-4424-8eaf-0bff9ec8027f)
 
+**Editor screen for user throughout notemaking/editing process**
 ![screencapture-notes-app-seven-flame-12-vercel-app-2025-03-21-15_38_49](https://github.com/user-attachments/assets/2b4ea313-aa65-4e99-86da-0cc7c7f8ee5b)
 
+**Preview screen for user to have a glance at the note being created**
 ![screencapture-notes-app-seven-flame-12-vercel-app-2025-03-21-15_39_10](https://github.com/user-attachments/assets/ececa71b-5dfa-4a80-b86d-b0c7cf57efb2)
 
 
